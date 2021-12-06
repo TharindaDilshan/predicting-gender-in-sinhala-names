@@ -1,1 +1,1 @@
-# predicting_gender_in_sinhala_names
+# Predicting gender in Sinhala names
